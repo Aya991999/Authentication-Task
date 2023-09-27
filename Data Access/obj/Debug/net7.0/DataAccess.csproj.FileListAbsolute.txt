@@ -1,0 +1,17 @@
+E:\EgyptionIntegration\McShippers_Task\Data Access\bin\Debug\net7.0\DataAccess.deps.json
+E:\EgyptionIntegration\McShippers_Task\Data Access\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+E:\EgyptionIntegration\McShippers_Task\Data Access\bin\Debug\net7.0\DataAccess.dll
+E:\EgyptionIntegration\McShippers_Task\Data Access\bin\Debug\net7.0\DataAccess.pdb
+E:\EgyptionIntegration\McShippers_Task\Data Access\bin\Debug\net7.0\Models.dll
+E:\EgyptionIntegration\McShippers_Task\Data Access\bin\Debug\net7.0\Models.pdb
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\DataAccess.dll
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\refint\DataAccess.dll
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\DataAccess.pdb
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+E:\EgyptionIntegration\McShippers_Task\Data Access\obj\Debug\net7.0\ref\DataAccess.dll
